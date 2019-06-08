@@ -1,0 +1,8 @@
+dawid\appdemo\ServletInitializer.class
+dawid\appdemo\user\UserService.class
+dawid\appdemo\AppdemoApplication.class
+dawid\appdemo\user\RegisterController.class
+dawid\appdemo\user\UserServiceImpl.class
+dawid\appdemo\user\User.class
+dawid\appdemo\user\UserRepository.class
+dawid\appdemo\configuration\SecurityConfig.class
